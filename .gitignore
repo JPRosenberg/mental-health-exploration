@@ -1,0 +1,12 @@
+venv/
+.idea/
+data.csv
+db.sqlite3
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+communes2/
